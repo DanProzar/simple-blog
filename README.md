@@ -1,6 +1,6 @@
 # simple-blog
 
-> My fine Nuxt.js project
+> My supreme Nuxt.js project
 
 ## Build Setup
 
